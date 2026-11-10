@@ -1,1 +1,1 @@
-{ "name": "artifact-split", "version": "0.3.0", "description": "/designs opens a panel in the Claude desktop app to search your design artifacts and open them in the Artifact pane beside the chat.", "types": "./types/index.d.ts" }
+{ "name": "artifact-split", "version": "0.3.1", "description": "/designs opens a panel in the Claude desktop app to search your design artifacts and open them in the Artifact pane beside the chat.", "license": "MIT", "types": "./types/index.d.ts" }

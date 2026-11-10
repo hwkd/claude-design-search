@@ -52,3 +52,7 @@ prompt box, then **Plugins**, **Add marketplace** with
 claude plugin validate .
 claude plugin test .
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
